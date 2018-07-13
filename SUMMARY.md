@@ -27,6 +27,8 @@
   * [性能测试](ce-shi/xing-neng-ce-shi.md)
   * [安全测试](ce-shi/an-quan-ce-shi.md)
   * Gachain合约测试
+  * Kail Linux
+    * [ssh](ce-shi/ssh.md)
 * [Java开发](java.md)
   * [Spring开发](java/spring.md)
     * 微服务
