@@ -75,6 +75,22 @@ export BK_DOMAIN="hechihan.com"            # 蓝鲸根域名(不含主机名)
 # yum clean all
 ```
 
+* 问题3
+
+```
+port 31001 start failed, please check
+```
+
+解决
+
+```
+# ./bkcec install cmdb
+$ ./bkcec stop cmdb
+# ./bkcec start cmdb 
+```
+
+
+
 ## 浏览器打开
 
 [http://paas.hechihan.com](http://paas.hechihan.com)
@@ -82,6 +98,4 @@ export BK_DOMAIN="hechihan.com"            # 蓝鲸根域名(不含主机名)
 [http://cmdb.hechihan.com](http://cmdb.hechihan.com)
 
 [http://job.hechihan.com](http://job.hechihan.com)
-
-
 
