@@ -26,19 +26,18 @@
 
 ## 证书获得
 
-证书获得地址：[http://bk.tencent.com/download/\#ssl](http://bk.tencent.com/download/#ssl)
+证书获得地址：[http://bk.tencent.com/download/\#ssl](http://bk.tencent.com/download/#ssl),解压到 src/cert 目录下
 
+```
+# tar xf ssl_certificate.tar -C /data/src/cert/
+```
 
+# 配置参数
 
-
-
-
-
-
-
-
-
-
+```
+# vi  /data/install/globals.env  
+export BK_DOMAIN="hechihan.com"            # 蓝鲸根域名(不含主机名)
+```
 
 
 
