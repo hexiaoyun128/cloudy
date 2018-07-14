@@ -16,7 +16,7 @@
 * [运维](yun-wei.md)
   * [Docker相关](yun-wei/dockerxiang-guan.md)
     * [postgres](yun-wei/dockerxiang-guan/postgres.md)
-  * 蓝鲸智云
+  * [蓝鲸智云](yun-wei/lan-jing-zhi-yun.md)
     * [单机部署](yun-wei/dan-ji-bu-shu.md)
     * [多机部署](yun-wei/duo-ji-bu-shu.md)
   * 阿里云
