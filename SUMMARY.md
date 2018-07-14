@@ -18,6 +18,7 @@
     * [postgres](yun-wei/dockerxiang-guan/postgres.md)
   * [蓝鲸智云](yun-wei/lan-jing-zhi-yun.md)
     * [单机部署](yun-wei/dan-ji-bu-shu.md)
+      * [单机说明](yun-wei/dan-ji-bu-shu/dan-ji-shuo-ming.md)
     * [多机部署](yun-wei/duo-ji-bu-shu.md)
   * 阿里云
     * [服务器操作](yun-wei/fu-wu-qi-cao-zuo.md)
