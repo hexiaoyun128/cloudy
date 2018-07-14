@@ -39,5 +39,28 @@
 export BK_DOMAIN="hechihan.com"            # 蓝鲸根域名(不含主机名)
 ```
 
+其他参数根据实际情况修改
+
+# 安装
+
+```
+# cd /data/install
+# ./install_minibk
+```
+
+# 安装过程问题以及解决
+
+* 问题1
+
+```
+./functions: line 180: rsync: command not found
+```
+
+解决
+
+```
+# yum install rsync -y
+```
+
 
 
