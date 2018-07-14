@@ -28,7 +28,6 @@
     * [用例约束文件](ce-shi/jie-kou-zi-dong-hua-ce-shi/yong-li-yue-shu-wen-jian.md)
   * [性能测试](ce-shi/xing-neng-ce-shi.md)
   * [安全测试](ce-shi/an-quan-ce-shi.md)
-  * Gachain合约测试
   * Kail Linux
     * [ssh](ce-shi/ssh.md)
 * [Java开发](java.md)
