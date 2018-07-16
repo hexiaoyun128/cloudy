@@ -72,5 +72,14 @@ func main() {
 }
 ```
 
+### 编译运行
 
+```
+# go build
+# ./build-binary  //build-binary为编译后的可执行文件
+```
+
+### 浏览器查看
+
+[http://localhost:8000/swagger/index.html](http://localhost:8000/swagger/index.html)
 
