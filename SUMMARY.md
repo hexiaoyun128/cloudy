@@ -4,6 +4,7 @@
 * [Golang开发](chapter1.md)
   * [gin框架](chapter1/ginkuang-jia.md)
     * [框架定制](chapter1/ginkuang-jia/kuang-jia-ding-zhi.md)
+    * swagger
   * 微服务
 * [持续集成](chi-xu-ji-cheng.md)
   * [Gitlab](chi-xu-ji-cheng/gitlab.md)
