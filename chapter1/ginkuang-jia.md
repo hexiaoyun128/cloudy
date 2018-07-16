@@ -4,6 +4,15 @@
 # go get github.com/swaggo/swag/cmd/swag
 ```
 
+### 添加相关包
+
+```
+# govendor fetch github.com/swaggo/gin-swagger
+# govendor fetch github.com/swaggo/gin-swagger/swaggerFiles
+```
+
+
+
 ## 相关位置增加备注
 
 ### main入口函数
@@ -31,20 +40,13 @@ func main() {}
 func Login(c *gin.Context) {}
 ```
 
-
-
 ### 项目目录下执行下面命令
 
 ```
 # swag init
 ```
 
-### 添加相关包
-
-```
-# govendor fetch github.com/swaggo/gin-swagger
-# govendor fetch github.com/swaggo/gin-swagger/swaggerFiles
-```
+### 
 
 
 
