@@ -12,8 +12,8 @@
   * [Jenkins](chi-xu-ji-cheng/jenkins.md)
     * [war包部署](chi-xu-ji-cheng/jenkins/warbao-bu-shu.md)
     * [Docker部署](chi-xu-ji-cheng/jenkins/dockerbu-shu.md)
-  * CI/CD
-    * [gitlab+jenkins](chi-xu-ji-cheng/gitlab+jenkins.md)
+  * [Gitlab + Jenkins](chi-xu-ji-cheng/cicd.md)
+    * [React Web](chi-xu-ji-cheng/cicd/react-web.md)
 * [运维](yun-wei.md)
   * [Docker相关](yun-wei/dockerxiang-guan.md)
     * [postgres](yun-wei/dockerxiang-guan/postgres.md)
