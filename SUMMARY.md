@@ -28,6 +28,7 @@
 * [测试](ce-shi.md)
   * [接口自动化测试](ce-shi/jie-kou-zi-dong-hua-ce-shi.md)
     * [用例约束文件](ce-shi/jie-kou-zi-dong-hua-ce-shi/yong-li-yue-shu-wen-jian.md)
+    * [框架搭建](ce-shi/jie-kou-zi-dong-hua-ce-shi/kuang-jia-da-jian.md)
   * [性能测试](ce-shi/xing-neng-ce-shi.md)
   * [安全测试](ce-shi/an-quan-ce-shi.md)
   * Kail Linux
