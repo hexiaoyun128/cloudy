@@ -50,4 +50,7 @@
   * Vue
 * [Docker](docker.md)
   * [环境部署](docker/huan-jing-bu-shu.md)
+* [架构](jia-gou.md)
+  * [分布式事务](jia-gou/fen-bu-shi-shi-wu.md)
+    * GTS
 
