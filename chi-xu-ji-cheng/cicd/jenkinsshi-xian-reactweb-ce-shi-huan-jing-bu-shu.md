@@ -50,5 +50,11 @@
 
 ## 部署到测试环境
 
+安装插件
+
+* [Publish Over SSH](https://plugins.jenkins.io/publish-over-ssh)
+
+
+
 
 
