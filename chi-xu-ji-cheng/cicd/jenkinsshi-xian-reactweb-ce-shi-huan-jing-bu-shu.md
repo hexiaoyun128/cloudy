@@ -18,6 +18,8 @@
 
 需要安装的插件
 
+* [Gitlab Authentication](https://plugins.jenkins.io/gitlab-oauth)
+
 * Build Authorization Token Root![](/chi-xu-ji-cheng/jenkins/images/react-web-job-8.jpg)
 
 ## ![](/chi-xu-ji-cheng/jenkins/images/react-web-job-8.jpg)
