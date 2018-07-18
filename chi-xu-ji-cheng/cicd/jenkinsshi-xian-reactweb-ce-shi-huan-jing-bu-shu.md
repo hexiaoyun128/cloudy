@@ -14,6 +14,8 @@
 * Job构建环境![](/chi-xu-ji-cheng/jenkins/images/react-web-job-6.jpg)
 * 构建![](/chi-xu-ji-cheng/jenkins/images/react-web-job-7.jpg)
 
+## Gitlab触发Jenkins构建![](/chi-xu-ji-cheng/jenkins/images/react-web-job-8.jpg)![](/chi-xu-ji-cheng/jenkins/images/react-web-job-9.jpg)
+
 ## 部署到测试环境
 
 
