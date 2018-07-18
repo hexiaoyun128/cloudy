@@ -10,9 +10,7 @@
 
 * Nodejs环境配置参考 Centos& React环境部署
 * Job构建环境![](/chi-xu-ji-cheng/jenkins/images/react-web-job-6.jpg)
-* 构建
-
-
+* 构建![](/chi-xu-ji-cheng/jenkins/images/react-web-job-7.jpg)
 
 
 
