@@ -1,4 +1,4 @@
-# Gitlab + Jenkins 实现React Web 自动部署
+# Gitlab + Jenkins 设置
 
 # GitLab设置
 
