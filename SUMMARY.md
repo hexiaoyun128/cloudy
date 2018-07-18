@@ -16,7 +16,7 @@
     * [React Web](chi-xu-ji-cheng/cicd/react-web.md)
     * [Centos7 React环境部署](chi-xu-ji-cheng/cicd/centos7-reacthuan-jing-bu-shu.md)
     * [Jenkins 插件安装](chi-xu-ji-cheng/cicd/jenkins-cha-jian-an-zhuang.md)
-    * Jenkins Email
+    * [Jenkins Email](chi-xu-ji-cheng/cicd/jenkins-email.md)
 * [运维](yun-wei.md)
   * [Docker相关](yun-wei/dockerxiang-guan.md)
     * [postgres](yun-wei/dockerxiang-guan/postgres.md)
