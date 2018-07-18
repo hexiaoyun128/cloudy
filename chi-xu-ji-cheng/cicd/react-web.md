@@ -8,9 +8,13 @@
 
 # Jenkins设置
 
-安装插件[Gitlab Hook](https://plugins.jenkins.io/gitlab-hook)
+安装插件GitLab
 
-Jenkins-&gt;系统管理-&gt;系统设置
+* Jenkins-&gt;系统管理-&gt;系统设置![](/chi-xu-ji-cheng/jenkins/images/jenkins-gitlab-1.jpg)
 
+* 添加gitlab地址信息![](/chi-xu-ji-cheng/jenkins/images/jenkins-gitlab-2.jpg)
 
+* 设置AccessToken![](/chi-xu-ji-cheng/jenkins/images/jenkins-gitlab-3.jpg)
+
+测试，点击Test Connection![](/chi-xu-ji-cheng/jenkins/images/jenkins-gitlab-4.jpg)
 
