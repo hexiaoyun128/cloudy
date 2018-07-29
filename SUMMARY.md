@@ -5,7 +5,9 @@
   * [gin框架](chapter1/ginkuang-jia.md)
     * [框架定制](chapter1/ginkuang-jia/kuang-jia-ding-zhi.md)
     * [swagger](chapter1/ginkuang-jia/swagger.md)
-  * 微服务
+  * [微服务](chapter1/wei-fu-wu.md)
+    * 练手1
+      * [环境搭建](chapter1/wei-fu-wu/huan-jing-da-jian.md)
 * [持续集成](chi-xu-ji-cheng.md)
   * [Gitlab](chi-xu-ji-cheng/gitlab.md)
     * [Docker部署](chi-xu-ji-cheng/gitlab/bu-shu.md)
