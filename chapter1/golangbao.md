@@ -8,7 +8,7 @@ go get -u github.com/360EntSecGroup-Skylar/goreporter
 
 ```
 mkdir dongjing-server-report 
-goreporter -p ./dongjing-server -r ./dongjing-server-report -f  html 
+goreporter -p ./dongjing-server -r ./dongjing-server-report -e ./dongjing-server/vendor -f  html
 ```
 
 
