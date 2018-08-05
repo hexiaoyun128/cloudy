@@ -9,6 +9,7 @@
     * [练手1](chapter1/wei-fu-wu/lian-shou-1.md)
       * [环境搭建](chapter1/wei-fu-wu/huan-jing-da-jian.md)
       * [步骤1](chapter1/wei-fu-wu/bu-zou-1.md)
+      * 步骤2
   * [golang包](chapter1/golangbao.md)
 * [持续集成](chi-xu-ji-cheng.md)
   * [Gitlab](chi-xu-ji-cheng/gitlab.md)
