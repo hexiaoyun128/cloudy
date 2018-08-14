@@ -36,7 +36,7 @@
     * [多机部署](yun-wei/duo-ji-bu-shu.md)
   * 阿里云
     * [服务器操作](yun-wei/fu-wu-qi-cao-zuo.md)
-    * [创建用户](yun-wei/chuang-jian-yong-hu.md)
+    * [用户相关操作](yun-wei/chuang-jian-yong-hu.md)
   * [虚拟机Centos7](yun-wei/xu-ni-ji-centos7.md)
     * [ifconfig配置](yun-wei/xu-ni-ji-centos7/ifconfigpei-zhi.md)
 * [测试](ce-shi.md)
