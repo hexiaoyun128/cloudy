@@ -39,7 +39,7 @@ yum list docker-ce --showduplicates | sort -r
 * 选择版本安装
 
 ```
-sudo yum install 17.03.2.ce-1.el7.centos  
+sudo yum install docker-ce-17.03.2
 ```
 
 
