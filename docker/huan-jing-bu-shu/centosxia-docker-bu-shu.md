@@ -6,7 +6,7 @@ Docker 要求 CentOS 系统的内核版本高于 3.10 ，查看本页面的前�
 uname -r
 ```
 
- 使用`root`权限登录 Centos。确保 yum 包更新到最新。
+使用`root`权限登录 Centos。确保 yum 包更新到最新。
 
 ```
 sudo yum update
@@ -18,7 +18,7 @@ sudo yum update
 sudo yum remove docker  docker-common docker-selinux docker-engine
 ```
 
-安装需要的软件包， yum-util 提供yum-config-manager功能，另外两个是devicemapper驱动依赖的
+安装需要的软件包， yum-util 提供yum-config-manager功能，另外两个是devicemapper驱动依赖的
 
 ```
 sudo yum install -y yum-utils device-mapper-persistent-data lvm2
