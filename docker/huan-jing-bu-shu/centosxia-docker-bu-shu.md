@@ -36,5 +36,11 @@ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/dock
 yum list docker-ce --showduplicates | sort -r
 ```
 
+* 选择版本安装
+
+```
+sudo yum install 17.03.2.ce-1.el7.centos  
+```
+
 
 
