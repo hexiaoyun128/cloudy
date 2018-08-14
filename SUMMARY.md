@@ -9,8 +9,10 @@
     * [练手1](chapter1/wei-fu-wu/lian-shou-1.md)
       * [环境搭建](chapter1/wei-fu-wu/huan-jing-da-jian.md)
       * [步骤1](chapter1/wei-fu-wu/bu-zou-1.md)
-      * 步骤2
+      * [步骤2](chapter1/wei-fu-wu/bu-zou-2.md)
   * [golang包](chapter1/golangbao.md)
+  * [环境搭建](chapter1/huan-jing-da-jian.md)
+    * [Centos服务器](chapter1/huan-jing-da-jian/fu-wu-qi.md)
 * [持续集成](chi-xu-ji-cheng.md)
   * [Gitlab](chi-xu-ji-cheng/gitlab.md)
     * [Docker部署](chi-xu-ji-cheng/gitlab/bu-shu.md)
