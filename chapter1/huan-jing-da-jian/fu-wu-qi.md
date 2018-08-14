@@ -11,7 +11,28 @@ tar zxvf go1.10.3.linux-amd64.tar.gz -C /usr/local/
 mkdir -p /mnt/gopath
 ```
 
+配置环境变量
 
+```
+vim /etc/profile
+```
+
+```
+export GOROOT=/usr/local/go
+export GOBIN=$GOROOT/bin
+export PATH=$PATH:$GOBIN
+export GOPATH=/mnt/gopath
+```
+
+```
+source /etc/profile
+```
+
+安装结束，验证
+
+```
+go version
+```
 
 
 
