@@ -22,5 +22,18 @@ docker cp tmp-nginx-container:/etc/nginx/nginx.conf /host/path/nginx.conf
 docker rm -f tmp-nginx-container
 ```
 
+创建目录`nginx-react`,并将`nginx.conf`复制到该目录下，修改`nginx.conf文件`
+
+```
+
+```
+
+新建`Dockerfile`文件,输入以下内容
+
+```
+FROM nginx：1.15.2
+COPY nginx.conf /etc/nginx/nginx.conf
+```
+
 
 
