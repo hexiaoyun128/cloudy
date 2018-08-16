@@ -41,7 +41,6 @@
   * [虚拟机Centos7](yun-wei/xu-ni-ji-centos7.md)
     * [ifconfig配置](yun-wei/xu-ni-ji-centos7/ifconfigpei-zhi.md)
   * 监控
-    * [Graphite+StatsD](yun-wei/graphite+statsd.md)
 * [测试](ce-shi.md)
   * [接口自动化测试](ce-shi/jie-kou-zi-dong-hua-ce-shi.md)
     * [用例约束文件](ce-shi/jie-kou-zi-dong-hua-ce-shi/yong-li-yue-shu-wen-jian.md)
@@ -71,6 +70,7 @@
 * [Docker](docker.md)
   * [环境部署](docker/huan-jing-bu-shu.md)
     * [Centos下docker部署](docker/huan-jing-bu-shu/centosxia-docker-bu-shu.md)
+    * [Graphite+StatsD](yun-wei/graphite+statsd.md)
   * [Nginx](docker/nginx.md)
   * [postgres](docker/postgres.md)
 * [架构](jia-gou.md)

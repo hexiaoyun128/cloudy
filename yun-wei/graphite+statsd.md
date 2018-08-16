@@ -6,11 +6,11 @@ Docker 部署
 docker run -d\
  --name graphite\
  --restart=always\
- -p 80:80\
- -p 2003-2004:2003-2004\
- -p 2023-2024:2023-2024\
- -p 8125:8125/udp\
- -p 8126:8126\
+ -p 8000:80\
+ -p 8001-8002:2003-2004\
+ -p 8003-8004:2023-2024\
+ -p 8006:8125/udp\
+ -p 8007:8126\
  -v /mnt/docker/graphite/graphite/configs:/opt/graphite/conf\
  -v /mnt/docker/graphite/graphite/data:/opt/graphite/storage\
  -v /mnt/docker/graphite/statsd:/opt/statsd\
