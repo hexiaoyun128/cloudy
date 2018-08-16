@@ -14,5 +14,13 @@
 
 * 自定义docker
 
+获得conf文件
+
+```
+docker run --name tmp-nginx-container -d nginx:1.15.2
+docker cp tmp-nginx-container:/etc/nginx/nginx.conf /host/path/nginx.conf
+docker rm -f tmp-nginx-container
+```
+
 
 
