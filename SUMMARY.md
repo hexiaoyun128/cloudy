@@ -13,6 +13,7 @@
   * [golang包](chapter1/golangbao.md)
   * [环境搭建](chapter1/huan-jing-da-jian.md)
     * [Centos服务器](chapter1/huan-jing-da-jian/fu-wu-qi.md)
+    * Goland问题集锦
 * [持续集成](chi-xu-ji-cheng.md)
   * [Gitlab](chi-xu-ji-cheng/gitlab.md)
     * [Docker部署](chi-xu-ji-cheng/gitlab/bu-shu.md)
