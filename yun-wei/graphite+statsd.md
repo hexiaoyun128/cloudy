@@ -1,6 +1,6 @@
 ## Graphite+StatsD监控
 
-Docker 部署
+* Docker 部署
 
 ```
 docker run -d\
@@ -21,6 +21,4 @@ docker run -d\
 ```
 
 配置文件[https://github.com/hopsoft/docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) 本地：[/docker/docker-graphite-statsd/conf](/docker/docker-graphite-statsd/conf)
-
-
 
