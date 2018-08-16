@@ -21,5 +21,5 @@ docker run -d\
  graphiteapp/graphite-statsd:1.1.3
 ```
 
-配置文件docker/docker-graphite-statsd/
+配置文件
 
