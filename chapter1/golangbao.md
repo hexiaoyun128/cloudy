@@ -11,5 +11,11 @@ mkdir dongjing-server-report
 goreporter -p ./dongjing-server -r ./dongjing-server-report -e ./dongjing-server/vendor -f  html
 ```
 
+#### 方便好用的Golang 配置库
+
+```
+https://github.com/spf13/viper
+```
+
 
 
