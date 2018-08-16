@@ -38,5 +38,3 @@ docker run  --name centrifugo -dit --ulimit nofile=65536:65536 -v /mnt/docker/ce
 
 
 
-
-
