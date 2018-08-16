@@ -18,7 +18,7 @@ docker run -d\
  -v /mnt/docker/graphite/nginx:/etc/nginx\
  -v /mnt/docker/graphite/etc/logrotate.d:/etc/logrotate.d\
  -v /mnt/docker/graphite/var/log:/var/log\
- graphiteapp/graphite-statsd
+ graphiteapp/graphite-statsd:1.1.3
 ```
 
 
