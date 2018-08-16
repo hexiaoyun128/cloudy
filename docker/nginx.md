@@ -69,8 +69,28 @@ http {
 新建`Dockerfile`文件,输入以下内容
 
 ```
-FROM nginx：1.15.2
+FROM nginx:1.15.2
 COPY nginx.conf /etc/nginx/nginx.conf
+
+EXPOSE 80
+STOPSIGNAL SIGTERM
+
+CMD ["nginx", "-g", "daemon off;"]
+```
+
+编译
+
+```
+docker build -t react-nginx .
+```
+
+```
+docker run -dit\
+ --name gachain-nginx\
+ -p 8080:80\
+ -v /mnt/docker/gachain-nginx/web:/usr/share/nginx/html:rw\
+ -v /mnt/docker/gachain-nginx/logs:/var/log/nginx/:rw\
+ --restart=always react-nginx:8.16
 ```
 
 
