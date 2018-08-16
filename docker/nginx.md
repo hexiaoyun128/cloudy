@@ -25,7 +25,6 @@ docker rm -f tmp-nginx-container
 创建目录`nginx-react`,并将`nginx.conf`复制到该目录下，修改`nginx.conf文件`
 
 ```
-
 user  nginx;
 worker_processes  1;
 
@@ -37,6 +36,14 @@ events {
     worker_connections  1024;
 }
 
+location / {
+     try_files $uri $uri/ @router;
+     index index.html;
+ }
+
+location @router {
+    rewrite ^.*$ /index.html last;
+}
 
 http {
     include       /etc/nginx/mime.types;
