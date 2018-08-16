@@ -1,22 +1,24 @@
 ## Graphite+StatsD监控
 
-#### Graphite安装
+Docker 部署
 
 ```
-yum -y install epel-release   #安装epel扩展源pip才能安装
-yum -y install python-pip
-yum -y install python-devel
-yum -y install gcc
-yum -y install unzip
-pip install carbon
-pip install whisper
-```
-
-```
-yum -y install libffi-devel zlib-devel openssl-devel install uwsgi-plugin-python
-pip install graphite-web
-pip uninstall django
-pip install django==1.8
+docker run -d\
+ --name graphite\
+ --restart=always\
+ -p 80:80\
+ -p 2003-2004:2003-2004\
+ -p 2023-2024:2023-2024\
+ -p 8125:8125/udp\
+ -p 8126:8126\
+ -v /mnt/docker/graphite/graphite/configs:/opt/graphite/conf\
+ -v /mnt/docker/graphite/graphite/data:/opt/graphite/storage\
+ -v /mnt/docker/graphite/statsd:/opt/statsd\
+ -v /mnt/docker/graphite/graphite/webapp/:/opt/graphite/webapp/graphite/functions/custom\
+ -v /mnt/docker/graphite/nginx:/etc/nginx\
+ -v /mnt/docker/graphite/etc/logrotate.d:/etc/logrotate.d\
+ -v /mnt/docker/graphite/var/log:/var/log\
+ graphiteapp/graphite-statsd
 ```
 
 
