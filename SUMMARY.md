@@ -40,7 +40,7 @@
     * [用户相关操作](yun-wei/chuang-jian-yong-hu.md)
   * [虚拟机Centos7](yun-wei/xu-ni-ji-centos7.md)
     * [ifconfig配置](yun-wei/xu-ni-ji-centos7/ifconfigpei-zhi.md)
-  * 监控
+  * [监控](yun-wei/jian-kong.md)
 * [测试](ce-shi.md)
   * [接口自动化测试](ce-shi/jie-kou-zi-dong-hua-ce-shi.md)
     * [用例约束文件](ce-shi/jie-kou-zi-dong-hua-ce-shi/yong-li-yue-shu-wen-jian.md)
