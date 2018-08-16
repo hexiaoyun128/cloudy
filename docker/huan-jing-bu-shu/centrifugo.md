@@ -36,9 +36,7 @@ vim config.json
 docker run  --name centrifugo -dit --ulimit nofile=65536:65536 -v /mnt/docker/centrifugo:/centrifugo -p 7080:8000 centrifugo/centrifugo:1.8.0 centrifugo -c config.json
 ```
 
-```
 
-```
 
 
 
