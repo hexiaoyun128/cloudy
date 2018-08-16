@@ -21,7 +21,7 @@ docker run -d\
  graphiteapp/graphite-statsd:1.1.3
 ```
 
-配置文件
+配置文件[https://github.com/hopsoft/docker-graphite-statsd](https://github.com/hopsoft/docker-graphite-statsd) 本地：[/docker/docker-graphite-statsd/conf](/docker/docker-graphite-statsd/conf)
 
 
 
