@@ -72,6 +72,7 @@
   * [Nginx](docker/nginx.md)
   * [Graphite+StatsD](yun-wei/graphite+statsd.md)
   * [postgres](docker/postgres.md)
+  * [Centrifugo](docker/huan-jing-bu-shu/centrifugo.md)
 * [架构](jia-gou.md)
   * [分布式事务](jia-gou/fen-bu-shi-shi-wu.md)
     * [GTS](jia-gou/fen-bu-shi-shi-wu/gts.md)
