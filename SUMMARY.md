@@ -61,6 +61,7 @@
   * [开发环境](reactkai-fa/kai-fa-huan-jing.md)
   * [ant design](reactkai-fa/ant-design.md)
   * [视频教程](reactkai-fa/shi-pin-jiao-cheng.md)
+    * [包安装](reactkai-fa/shi-pin-jiao-cheng/bao-an-zhuang.md)
 * [Vue开发](vuekai-fa.md)
   * [开发环境](vuekai-fa/kai-fa-huan-jing.md)
 * [React Native开发](react-nativekai-fa.md)
