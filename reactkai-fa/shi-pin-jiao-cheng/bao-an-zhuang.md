@@ -2,7 +2,7 @@
 cnpm install antd-mobile --save
 ```
 
-按序加载
+按需加载
 
 ```
  yarn add babel-plugin-import --save-dev
@@ -23,6 +23,12 @@ cnpm install antd-mobile --save
       ]
     ]
   },
+```
+
+配置
+
+```
+yarn eject
 ```
 
 
