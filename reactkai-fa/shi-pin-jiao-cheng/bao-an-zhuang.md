@@ -37,5 +37,13 @@ redux安装
 yarn add redux --save
 ```
 
+Redux处理异步工具以及更优雅的和React结合
+
+```
+yarn add redux-thunk
+yarn add redux-devtools-extension
+yarn add react-redux
+```
+
 
 
