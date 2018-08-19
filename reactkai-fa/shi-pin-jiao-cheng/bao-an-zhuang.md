@@ -31,5 +31,11 @@ cnpm install antd-mobile --save
 yarn eject
 ```
 
+redux安装
+
+```
+yarn add redux --save
+```
+
 
 
