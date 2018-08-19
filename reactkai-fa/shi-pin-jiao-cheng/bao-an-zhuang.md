@@ -43,11 +43,14 @@ Redux处理异步工具以及更优雅的和React结合
 yarn add redux-thunk
 yarn add redux-devtools-extension
 yarn add react-redux
+yarn add babel-plugin-transform-decorators-legacy
 ```
 
 Redux Chrome扩展
 
 Redux DevTools
 
-React-redux
+
+
+
 
