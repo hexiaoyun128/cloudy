@@ -45,5 +45,7 @@ yarn add redux-devtools-extension
 yarn add react-redux
 ```
 
+Redux Chrome扩展
 
+Redux DevTools
 
