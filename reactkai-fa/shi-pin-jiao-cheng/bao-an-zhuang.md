@@ -52,7 +52,7 @@ yarn add babel-plugin-transform-decorators-legacy
       "react-app"
     ],
     "plugins": [
-      "transform-decorators-legac",
+      "transform-decorators-legacy",
       [
         "import",
         {
