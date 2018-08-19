@@ -46,11 +46,25 @@ yarn add react-redux
 yarn add babel-plugin-transform-decorators-legacy
 ```
 
+```
+"babel": {
+    "presets": [
+      "react-app"
+    ],
+    "plugins": [
+      "transform-decorators-legac",
+      [
+        "import",
+        {
+          "libraryName": "antd-mobile",
+          "style": "css"
+        }
+      ]
+    ]
+  },
+```
+
 Redux Chrome扩展
 
 Redux DevTools
-
-
-
-
 
