@@ -3,7 +3,7 @@ Docker部署
 获得配置文件
 
 ```
-docker run -d --name elastic -e transport.host=0.0.0.0   elasticsearch:5.6.10
+docker run -d --name elastic -e transport.host=0.0.0.0  -p 9200:9200 -p 9300:9300 elasticsearch:5.6.10
 docker cp elastic:/usr/share/elasticsearch/config ./
 ```
 
