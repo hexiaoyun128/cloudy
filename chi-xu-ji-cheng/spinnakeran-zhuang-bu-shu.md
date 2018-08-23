@@ -42,6 +42,15 @@ hal -h
 sudo update-halyard
 ```
 
+* 卸载Halyard
+
+```
+hal deploy clean
+sudo ~/.hal/uninstall.sh
+```
+
+
+
 #### Docker部署
 
 
