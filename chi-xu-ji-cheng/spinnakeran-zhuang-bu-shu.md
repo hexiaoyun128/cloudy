@@ -2,21 +2,19 @@
 
 ## Halyard安装
 
-* ##### Debian/Ubuntu and macOS
+#### Debian/Ubuntu and macOS
+
+* 获得最新版本的Halyard
 
 ```
 curl -O https://raw.githubusercontent.com/spinnaker/halyard/master/install/debian/InstallHalyard.sh
-sudo bash InstallHalyard.sh
 ```
 
 ```
 curl -O https://raw.githubusercontent.com/spinnaker/halyard/master/install/macos/InstallHalyard.sh
-sudo bash InstallHalyard.sh
 ```
 
-
-
-* ##### Docker部署
+#### Docker部署
 
 
 
