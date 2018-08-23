@@ -28,6 +28,8 @@
     * [Jenkins 全局设置](chi-xu-ji-cheng/cicd/jenkins-quan-ju-she-zhi.md)
     * [Jenkins实现ReactWeb测试环境部署](chi-xu-ji-cheng/cicd/jenkinsshi-xian-reactweb-ce-shi-huan-jing-bu-shu.md)
     * [Jenkins安全设置](chi-xu-ji-cheng/cicd/jenkinsan-quan-she-zhi.md)
+  * spinnaker
+    * [spinnaker安装部署](chi-xu-ji-cheng/spinnakeran-zhuang-bu-shu.md)
 * [运维](yun-wei.md)
   * [Docker相关](yun-wei/dockerxiang-guan.md)
     * [postgres](yun-wei/dockerxiang-guan/postgres.md)
