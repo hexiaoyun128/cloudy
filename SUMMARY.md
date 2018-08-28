@@ -57,8 +57,8 @@
   * [Spring开发](java/spring.md)
     * 微服务
 * [Python开发](pythonkai-fa.md)
-  * Django开发
-  * Flask开发
+  * [Django开发](pythonkai-fa/djangokai-fa.md)
+  * [Flask开发](pythonkai-fa/flaskkai-fa.md)
 * [React开发](reactkai-fa.md)
   * [开发环境](reactkai-fa/kai-fa-huan-jing.md)
   * [ant design](reactkai-fa/ant-design.md)
