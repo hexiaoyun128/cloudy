@@ -54,7 +54,7 @@ mysql> update user set host='%' where user='root';
 * 重启
 
 ```
-
+systemctl restart  mysqld.service
 ```
 
 
