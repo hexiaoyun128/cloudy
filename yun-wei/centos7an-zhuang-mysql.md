@@ -20,5 +20,42 @@
 systemctl status mysqld.service
 ```
 
+* 查看初始默认密码
+
+```
+grep "password" /var/log/mysqld.log
+```
+
+* 进入数据库
+
+```
+mysql -uroot -p
+```
+
+* 修改密码
+
+```
+ ALTER USER 'root'@'localhost' IDENTIFIED BY 'new password';
+```
+
+* 修改连接IP 
+
+```
+mysql> use mysql
+mysql> select t.host from user t where t.user='root';
++--------------+
+|  host        |
++--------------+
+|  localhost   |
++--------------+
+mysql> update user set host='%' where user='root';
+```
+
+* 重启
+
+```
+
+```
+
 
 
