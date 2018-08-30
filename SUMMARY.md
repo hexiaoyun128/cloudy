@@ -43,6 +43,8 @@
   * [虚拟机Centos7](yun-wei/xu-ni-ji-centos7.md)
     * [ifconfig配置](yun-wei/xu-ni-ji-centos7/ifconfigpei-zhi.md)
   * [监控](yun-wei/jian-kong.md)
+  * 软件安装
+    * [Centos7安装mysql](yun-wei/centos7an-zhuang-mysql.md)
 * [测试](ce-shi.md)
   * [接口自动化测试](ce-shi/jie-kou-zi-dong-hua-ce-shi.md)
     * [用例约束文件](ce-shi/jie-kou-zi-dong-hua-ce-shi/yong-li-yue-shu-wen-jian.md)
