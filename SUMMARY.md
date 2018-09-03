@@ -61,6 +61,7 @@
 * [Python开发](pythonkai-fa.md)
   * [Django开发](pythonkai-fa/djangokai-fa.md)
   * [Flask开发](pythonkai-fa/flaskkai-fa.md)
+  * [Centos下python3环境](pythonkai-fa/centosxia-python3-huan-jing.md)
 * [React开发](reactkai-fa.md)
   * [开发环境](reactkai-fa/kai-fa-huan-jing.md)
   * [ant design](reactkai-fa/ant-design.md)
