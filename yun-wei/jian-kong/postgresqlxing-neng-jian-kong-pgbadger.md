@@ -8,7 +8,12 @@ git clone https://github.com/darold/pgbadger.git
 
 #### postgres设置
 
-* `postgresql.conf`中的`logging_collector = off`改为`logging_collector = on`
+* `postgresql.conf`中的修改
+
+logging\_collector = off改为logging\_collector = on
+
+log\_min\_duration\_statement = -1改为log\_min\_duration\_statement = 0
+
 * 重启postgres 服务
 
 
