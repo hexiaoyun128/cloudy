@@ -10,9 +10,10 @@ git clone https://github.com/darold/pgbadger.git
 
 * `postgresql.conf`中的修改
 
-logging\_collector = off改为logging\_collector = on
-
-log\_min\_duration\_statement = -1改为log\_min\_duration\_statement = 0
+```
+logging_collector = off 改为 logging_collector = on
+log_min_duration_statement = -1 改为 log_min_duration_statement = 0
+```
 
 * 重启postgres 服务
 
