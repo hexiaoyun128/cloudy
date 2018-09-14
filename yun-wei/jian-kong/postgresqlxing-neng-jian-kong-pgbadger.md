@@ -6,8 +6,6 @@
 git clone https://github.com/darold/pgbadger.git
 ```
 
-
-
 ### POSTGRESQL配置 {#POSTGRESQL-CONFIGURATION}
 
 您必须在启动之前在postgresql.conf中启用并设置一些配置指令。
